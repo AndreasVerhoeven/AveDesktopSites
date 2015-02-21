@@ -1,0 +1,6 @@
+LIBRARY	"VistaDesktopHook"
+
+EXPORTS
+	StartHook
+	StopHook
+	IsHookRunning
